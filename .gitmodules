@@ -1,0 +1,3 @@
+[submodule "Libraries/GitLibrary"]
+	path = Libraries/GitLibrary
+	url = https://github.com/VallDrous/GitLibrary.git
